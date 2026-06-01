@@ -1,0 +1,30 @@
+# Commands Practiced
+
+## ipconfig
+
+Purpose:
+Displays network configuration.
+
+Command:
+
+```bash
+ipconfig
+```
+
+Observation:
+Shows IP Address, Default Gateway and DNS Server.
+
+## ping
+
+Purpose:
+Tests connectivity.
+
+Command:
+
+```bash
+ping google.com
+```
+
+Observation:
+Received replies from Google.
+```
