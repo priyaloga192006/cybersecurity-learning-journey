@@ -1,0 +1,23 @@
+| Command   | Purpose                             |
+| --------- | ----------------------------------- |
+| `pwd`     | Show current directory              |
+| `ls`      | List files and directories          |
+| `ls -l`   | Detailed list                       |
+| `ls -a`   | Show hidden files                   |
+| `cd`      | Change directory                    |
+| `cd ..`   | Go back one directory               |
+| `cd ~`    | Go to home directory                |
+| `cd /`    | Go to root directory                |
+| `whoami`  | Show current user                   |
+| `clear`   | Clear terminal                      |
+| `history` | Show previous commands              |
+| `mkdir`   | Create a directory                  |
+| `touch`   | Create a file                       |
+| `cp`      | Copy files/directories              |
+| `mv`      | Move or rename files                |
+| `rm`      | Delete a file                       |
+| `rmdir`   | Delete an empty directory           |
+| `rm -r`   | Delete a directory and its contents |
+| `cat`     | Display file contents               |
+| `echo`    | Print or write text                 |
+| `nano`    | Edit text files                     |
