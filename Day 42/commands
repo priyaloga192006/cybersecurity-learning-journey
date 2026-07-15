@@ -1,0 +1,61 @@
+Commands You Should Know
+Navigation
+pwd
+ls
+ls -l
+ls -a
+cd
+cd ..
+cd ~
+cd /
+history
+clear
+File Management
+mkdir
+touch
+cp
+mv
+rm
+rm -r
+rmdir
+cat
+echo
+nano
+Permissions
+chmod
+chown
+chgrp
+Users
+whoami
+id
+groups
+sudo
+adduser
+deluser
+passwd
+Processes
+ps
+ps -ef
+top
+kill
+Services
+systemctl start
+systemctl stop
+systemctl restart
+systemctl status
+Logs
+cat
+tail
+tail -f
+Networking
+ip addr
+ping
+ip route
+nslookup
+ss -tuln
+Package Management
+apt update
+apt upgrade
+apt install
+apt remove
+apt search
