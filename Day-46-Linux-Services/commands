@@ -1,0 +1,10 @@
+| Command                               | Purpose                             |
+| ------------------------------------- | ----------------------------------- |
+| `systemctl list-units --type=service` | List active services                |
+| `systemctl status <service>`          | Check service status                |
+| `sudo systemctl start <service>`      | Start a service                     |
+| `sudo systemctl stop <service>`       | Stop a service                      |
+| `sudo systemctl restart <service>`    | Restart a service                   |
+| `sudo systemctl reload <service>`     | Reload configuration                |
+| `sudo systemctl enable <service>`     | Start service automatically on boot |
+| `sudo systemctl disable <service>`    | Prevent automatic startup           |
